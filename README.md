@@ -1,6 +1,8 @@
 # Mathematica
 Mathematica函数包，用于机器人的仿真，具有以下功能：
 
+- 机械臂
+
 1　三维模型导入
 
 2　正\逆运动学仿真
@@ -13,5 +15,8 @@ Mathematica函数包，用于机器人的仿真，具有以下功能：
 
 6　运动控制
 
-![]( )
+- 移动机器人仿真
 
+1　Reeds-Shepp Curve
+
+<img src="https://raw.githubusercontent.com/robinvista/Mathematica/master/gif/5-1.gif" height="300" />
