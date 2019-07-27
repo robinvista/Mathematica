@@ -13,7 +13,7 @@
 
 5　S曲线轨迹规划
 
-<center><img src="https://img-blog.csdnimg.cn/20190612194347655.gif" width="40%" /></center>
+<center><img src="https://img-blog.csdnimg.cn/20190612194347655.gif" width="45%" /></center>
 
 6　正\逆动力学仿真（递归牛顿-欧拉）
 
@@ -27,9 +27,9 @@
 
 2　ICP Matching
 
-<img src="https://github.com/robinvista/Mathematica/blob/master/gif/2.gif" height="320" />
+<img src="https://github.com/robinvista/Mathematica/blob/master/gif/2.gif" height="300" />
 
-3　Multiple Steerable wheels Control
+3　Multiple Steerable Wheels Control
 
 
 <img src="https://github.com/robinvista/Mathematica/blob/master/gif/10.gif" height="200" />
