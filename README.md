@@ -15,7 +15,7 @@
 
 <center><img src="https://img-blog.csdnimg.cn/20190612194347655.gif" width="40%" /></center>
 
-6　正\逆动力学仿真（基于递归牛顿-欧拉法）
+6　正\逆动力学仿真（递归牛顿-欧拉）
 
 7　运动控制
 
