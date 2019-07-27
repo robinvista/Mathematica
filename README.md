@@ -25,6 +25,7 @@
 
 <img src="https://github.com/robinvista/Mathematica/blob/master/gif/2.gif" height="320" />
 
-2  Multi-wheel Control
+3  Multiple Steerable wheels Control
 
-<img src="https://github.com/robinvista/Mathematica/blob/master/gif/10.gif" height="320" />
+
+<img src="https://github.com/robinvista/Mathematica/blob/master/gif/10.gif" height="200" />
