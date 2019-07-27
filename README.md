@@ -9,7 +9,11 @@
 
 3　碰撞检测
 
-4　轨迹规划（RRT）
+4　路径规划（RRT）
+
+5　S曲线轨迹规划
+
+<center><img src="https://img-blog.csdnimg.cn/20190612194347655.gif" width="40%" /></center>
 
 5　正\逆动力学仿真（基于递归牛顿-欧拉法）
 
