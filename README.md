@@ -21,11 +21,11 @@
 
 <img src="https://raw.githubusercontent.com/robinvista/Mathematica/master/gif/5-1.gif" height="300" />
 
-2  ICP Matching
+2　ICP Matching
 
 <img src="https://github.com/robinvista/Mathematica/blob/master/gif/2.gif" height="320" />
 
-3  Multiple Steerable wheels Control
+3　Multiple Steerable wheels Control
 
 
 <img src="https://github.com/robinvista/Mathematica/blob/master/gif/10.gif" height="200" />
