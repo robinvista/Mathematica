@@ -1,6 +1,6 @@
 ## Mathematica机器人函数包：
 
-### 一 机械臂
+### 一、机械臂
 
 <img src="https://github.com/robinvista/Mathematica/blob/master/gif/1.gif" height="200" /><img src="https://github.com/robinvista/Mathematica/blob/master/gif/6.gif" height="200" /><img src="https://github.com/robinvista/Mathematica/blob/master/gif/2.gif" height="130" />
 
@@ -17,7 +17,7 @@
 
 6　运动控制
 
-#### 二 移动机器人
+### 二、移动机器人
 
 1　Reeds-Shepp Curve and Dubins Curve
 
