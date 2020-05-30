@@ -33,4 +33,4 @@
 
 4　混合A* 算法
 
-<img src="https://github.com/robinvista/Mathematica/blob/master/gif/RVC%E5%B7%AE%E5%88%86.gif" height="300" />
+<img src="https://github.com/robinvista/Mathematica/blob/master/gif/%E6%B7%B7%E5%90%88A%E6%98%9F.gif" height="300" />
