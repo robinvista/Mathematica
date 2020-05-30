@@ -1,6 +1,6 @@
 ## Mathematica机器人函数包：
 
-### ■ 机械臂
+### 一 机械臂
 
 <img src="https://github.com/robinvista/Mathematica/blob/master/gif/1.gif" height="200" /><img src="https://github.com/robinvista/Mathematica/blob/master/gif/6.gif" height="200" /><img src="https://github.com/robinvista/Mathematica/blob/master/gif/2.gif" height="130" />
 
@@ -17,7 +17,7 @@
 
 6　运动控制
 
-### ■ 移动机器人
+#### 二 移动机器人
 
 1　Reeds-Shepp Curve and Dubins Curve
 
@@ -27,10 +27,10 @@
 
 3　点镇定和轨迹跟踪控制
 
->>>差速驱动机器人和car-like机器人
+>>差速驱动机器人和car-like机器人
    
 <img src="https://github.com/robinvista/Mathematica/blob/master/gif/RVC%E5%B7%AE%E5%88%86.gif" height="350" />
 
 4　混合A* 算法
 
-<img src="https://github.com/robinvista/Mathematica/blob/master/gif/%E6%B7%B7%E5%90%88A%E6%98%9F.gif" height="450" />
+<img src="https://github.com/robinvista/Mathematica/blob/master/gif/%E6%B7%B7%E5%90%88A%E6%98%9F.gif" height="480" />
