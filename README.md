@@ -24,4 +24,8 @@
 
 <img src="https://github.com/robinvista/Mathematica/blob/master/gif/2.gif" height="300" />
 
-3　car-like机器人轨迹跟踪控制
+3　点镇定和轨迹跟踪控制
+
+   差速驱动机器人和car-like机器人
+   
+<img src="https://github.com/robinvista/Mathematica/blob/master/gif/RVC%E5%B7%AE%E5%88%86.gif" height="300" />
