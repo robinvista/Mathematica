@@ -25,8 +25,6 @@
 
 2　ICP Matching
 
-<img src="https://github.com/robinvista/Mathematica/blob/master/gif/2.gif" height="300" />
-
 3　点镇定和轨迹跟踪控制
 
    差速驱动机器人和car-like机器人
