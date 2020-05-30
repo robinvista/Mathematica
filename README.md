@@ -13,7 +13,7 @@
 <img src="https://raw.githubusercontent.com/robinvista/Mathematica/master/gif/5-1.gif" height="300" />  
 2　ICP Matching  
 3　点镇定和轨迹跟踪控制  
-   differential driven & car-like robot  
+&emsp;&emsp;differential-drive & car-like robot  
 <img src="https://github.com/robinvista/Mathematica/blob/master/gif/RVC%E5%B7%AE%E5%88%86.gif" height="350" />  
 4　混合A* 算法  
 <img src="https://github.com/robinvista/Mathematica/blob/master/gif/%E6%B7%B7%E5%90%88A%E6%98%9F.gif" height="480" />
