@@ -8,8 +8,7 @@
 4　路径规划（RRT）  
 5　正\逆动力学计算（递归牛顿-欧拉法）  
 6　运动控制  
-7　网球拍效应
-   Explicit Newmark/Verlet algorithm for Time Integration of the Rotational Dynamics of Rigid Bodies
+7　网球拍效应  
    <img src="https://github.com/robinvista/Mathematica/blob/master/gif/%E7%BD%91%E7%90%83%E6%8B%8D%E6%95%88%E5%BA%94.gif" height="300" />  
 
 ### 二、移动机器人  
