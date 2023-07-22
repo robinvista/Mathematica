@@ -16,8 +16,9 @@
 ### 二、移动机器人  
 
 1　Reeds-Shepp Curve and Dubins Curve  
-<img src="https://raw.githubusercontent.com/robinvista/Mathematica/master/gif/5-1.gif" height="300" />  
-2　ICP Matching  
+<img src="https://raw.githubusercontent.com/robinvista/Mathematica/master/gif/5-1.gif" height="300" /> 
+2　Double S Curve 速度规划
+<img src="https://github.com/robinvista/Mathematica/blob/master/gif/Double_S_Curve.gif" height="300" /> 
 3　点镇定和轨迹跟踪控制  
 &emsp;&emsp;differential-drive & car-like robot  
 <img src="https://github.com/robinvista/Mathematica/blob/master/gif/RVC%E5%B7%AE%E5%88%86.gif" height="350" />  
