@@ -3,7 +3,7 @@
 ## Mathematica机器人函数包：
 
 ### 一、机械臂  
-<img src="https://github.com/robinvista/Mathematica/blob/master/gif/1.gif" height="200" /><img src="https://github.com/robinvista/Mathematica/blob/master/gif/6.gif" height="200" /><img src="https://github.com/robinvista/Mathematica/blob/master/gif/2.gif" height="180" />  
+<img src="https://github.com/robinvista/Mathematica/blob/master/gif/1.gif" height="200" /><img src="https://github.com/robinvista/Mathematica/blob/master/gif/6.gif" height="200" /><img src="https://github.com/robinvista/Mathematica/blob/master/gif/2.gif" height="200" />  
 1　三维模型导入  
 2　正\逆运动学计算  
 3　碰撞检测  
