@@ -17,7 +17,7 @@
 
 1　Reeds-Shepp Curve and Dubins Curve  
 <img src="https://raw.githubusercontent.com/robinvista/Mathematica/master/gif/5-1.gif" height="300" /> 
-2　Double S Curve 速度规划
+2　Double S Curve 速度规划  
 <img src="https://github.com/robinvista/Mathematica/blob/master/gif/Double_S_Curve.gif" height="300" /> 
 3　点镇定和轨迹跟踪控制  
 &emsp;&emsp;differential-drive & car-like robot  
