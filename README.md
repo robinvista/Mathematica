@@ -24,7 +24,7 @@
 <img src="https://github.com/robinvista/Mathematica/blob/master/gif/RVC%E5%B7%AE%E5%88%86.gif" height="350" />  
 4　混合A* 算法  
 <img src="https://github.com/robinvista/Mathematica/blob/master/gif/%E6%B7%B7%E5%90%88A%E6%98%9F%201.gif" height="400" /><img src="https://github.com/robinvista/Mathematica/blob/master/gif/%E6%B7%B7%E5%90%88A%E6%98%9F%202.gif" height="400" />  
-5　使用OSQP解二次规划问题（Apollo自动驾驶中的路径规划）
+5　使用OSQP解二次规划问题（Apollo自动驾驶中的参考线平滑、路径规划和速度平滑）
 <img src="https://github.com/robinvista/Mathematica/blob/master/gif/OSQP_Refline.gif" height="310" /> 
 
 <img src="https://github.com/robinvista/Mathematica/blob/master/gif/OSQP_Path.gif" height="310" /> 
