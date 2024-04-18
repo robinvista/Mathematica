@@ -27,6 +27,8 @@
 5　使用OSQP解二次规划问题（Apollo自动驾驶中的路径规划）
 <img src="https://github.com/robinvista/Mathematica/blob/master/gif/OSQP.gif" height="300" /> 
 
+<img src="https://github.com/robinvista/Mathematica/blob/master/gif/osqp_path_opt.gif" height="300" /> 
+
 
 
 
