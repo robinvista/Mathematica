@@ -1,5 +1,25 @@
 交流网站[www.robotattractor.com](www.robotattractor.com)
 
+## 《封闭场景无人驾驶技术与应用》随书代码效果演示：
+
+
+
+### 第三章 
+
+#### 3.4节 李群与李代数
+
+##### 李代数用于旋转插值（方法1）
+
+<img src="https://github.com/robinvista/Mathematica/blob/master/gif/%E6%9D%8E%E4%BB%A3%E6%95%B0%E7%94%A8%E4%BA%8E%E6%97%8B%E8%BD%AC%E6%8F%92%E5%80%BC-%E6%96%B9%E6%B3%951.gif" height="300" />
+
+##### 李代数用于旋转插值（方法2）
+
+<img src="https://github.com/robinvista/Mathematica/blob/master/gif/%E6%9D%8E%E4%BB%A3%E6%95%B0%E7%94%A8%E4%BA%8E%E6%97%8B%E8%BD%AC%E6%8F%92%E5%80%BC-%E6%96%B9%E6%B3%952.gif" height="300" />
+
+##### 直接对欧拉角线性插值
+
+<img src="https://github.com/robinvista/Mathematica/blob/master/gif/%E7%9B%B4%E6%8E%A5%E5%AF%B9%E6%AC%A7%E6%8B%89%E8%A7%92%E6%8F%92%E5%80%BC.gif" height="300" />
+
 ## Mathematica机器人函数包：
 
 ### 一、机械臂  
